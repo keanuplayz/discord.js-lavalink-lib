@@ -1,0 +1,61 @@
+{
+  "_from": "discord.js-lavalink-lib",
+  "_id": "discord.js-lavalink-lib@0.1.7",
+  "_inBundle": false,
+  "_integrity": "sha512-czjsdRcbB+sdfTXsko76JYAAPJzoRhTiaphZJXqFpsAYdv0hjkNVLHxuuG2d4hVuXjt/UU7HDYyWEb2e/3g2Ew==",
+  "_location": "/discord.js-lavalink-lib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "discord.js-lavalink-lib",
+    "name": "discord.js-lavalink-lib",
+    "escapedName": "discord.js-lavalink-lib",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord.js-lavalink-lib/-/discord.js-lavalink-lib-0.1.7.tgz",
+  "_shasum": "fe85e81e84f557623bd0632b2fbec14263bde0fe",
+  "_spec": "discord.js-lavalink-lib",
+  "_where": "/home/keanu/Documents/gitrepos/test",
+  "author": {
+    "name": "keanuplayz"
+  },
+  "bugs": {
+    "url": "https://github.com/keanuplayz/discord.js-lavalink-musicbot/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@lavacord/discord.js": "0.0.5",
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "lavacord": "^1.1.7"
+  },
+  "deprecated": false,
+  "description": "The fixed version of BluSpring's discord.js-lavalink-musicbot",
+  "homepage": "https://github.com/keanuplayz/discord.js-lavalink-musicbot#readme",
+  "keywords": [
+    "musicbot",
+    "discord.js",
+    "discord",
+    "music",
+    "lavalink"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "discord.js-lavalink-lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keanuplayz/discord.js-lavalink-musicbot.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "index.d.ts",
+  "version": "0.1.7"
+}
